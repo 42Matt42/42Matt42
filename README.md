@@ -1,5 +1,3 @@
-### :slightly_smiling_face: Welcome ! :rocket:
-
-<!--
-**42Matt42/42Matt42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### Hi there 👋, my name is Matt ! ;)
+#### I love coding <3 innovative projects and entrepreneurship :rocket:
+![I love coding <3 innovative projects and entrepreneurship :rocket:]
